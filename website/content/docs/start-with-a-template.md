@@ -4,7 +4,7 @@ weight: 10
 group: start
 ---
 
-Netlify CMS can be [added to an existing site](https://www.netlifycms.org/docs/add-to-your-site/), but the quickest way to get started is with a template. Our featured templates below deploy to Netlify, giving you a fully working CMS-enabled site with just a few clicks.
+Netlify CMS can be [added to an existing site](/docs/add-to-your-site/), but the quickest way to get started is with a template. Our featured templates below deploy to Netlify, giving you a fully working CMS-enabled site with just a few clicks.
 
 <div style="display: flex; justify-content: space-around; text-align: center; margin-bottom: 1.5em;">
     <div>
